@@ -1,4 +1,4 @@
-@import "https://langermank.github.io/hosted-variable-fonts/css/fonts.css";
+@import url("https://langermank.github.io/hosted-variable-fonts/css/fonts.css");
 
 .cabin {
   font-family: "Cabin Variable", sans-serif;
@@ -19,5 +19,15 @@
 
 .source-italic {
   font-family: "Source Sans Variable Italic", sans-serif;
+  font-variation-settings: "wght" 400;
+}
+
+.source-serif {
+  font-family: "Source Serif Variable", serif;
+  font-variation-settings: "wght" 400;
+}
+
+.source-serif-italic {
+  font-family: "Source Serif Variable Italic", serif;
   font-variation-settings: "wght" 400;
 }
