@@ -1,0 +1,21 @@
+.cabin {
+  font-family: "Cabin Variable", sans-serif;
+  font-variation-settings: "wght" 94, "wdth" 100;
+  font-feature-settings: "salt";
+}
+
+.cabin-italic {
+  font-family: "Cabin Italic Variable", sans-serif;
+  font-variation-settings: "wght" 95;
+  font-feature-settings: "salt";
+}
+
+.source {
+  font-family: "Source Sans Variable", sans-serif;
+  font-variation-settings: "wght" 400;
+}
+
+.source-italic {
+  font-family: "Source Sans Variable Italic", sans-serif;
+  font-variation-settings: "wght" 400;
+}
