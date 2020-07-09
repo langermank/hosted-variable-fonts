@@ -20,7 +20,7 @@
   font-style: normal;
   font-stretch: normal;
   font-display: swap;
-  src: url("../fonts/SourceSansVariable-Roman.otf.woff2") format("woff2");
+  src: url("../fonts/source-pro/SourceSansVariable-Roman.ttf.woff2") format("woff2");
 }
 
 @font-face {
@@ -29,7 +29,7 @@
   font-style: italic;
   font-stretch: normal;
   font-display: swap;
-  src: url("../fonts/SourceSansVariable-Italic.otf.woff2") format("woff2");
+  src: url("../fonts/source-pro/SourceSansVariable-Italic.ttf.woff2") format("woff2");
 }
 
 @font-face {
@@ -38,7 +38,7 @@
   font-style: italic;
   font-stretch: normal;
   font-display: swap;
-  src: url("../fonts/SourceSerifVariable-Italic.otf.woff2") format("woff2");
+  src: url("../fonts/source-pro/SourceSerifVariable-Italic.ttf.woff2") format("woff2");
 }
 
 @font-face {
@@ -47,5 +47,5 @@
   font-style: normal;
   font-stretch: normal;
   font-display: swap;
-  src: url("../fonts/SourceSerifVariable-Roman.otf.woff2") format("woff2");
+  src: url("../fonts/source-pro/SourceSerifVariable-Roman.ttf.woff2") format("woff2");
 }
